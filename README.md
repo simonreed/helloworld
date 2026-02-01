@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>🌐 Live at: <a href="https://[your-site].minimaldocs.com">[your-site].minimaldocs.com</a></strong>
+  <strong>🌐 Live at: <a href="https://helloworld.minimaldocs.com">helloworld.minimaldocs.com</a></strong>
 </p>
 
 <p align="center">
